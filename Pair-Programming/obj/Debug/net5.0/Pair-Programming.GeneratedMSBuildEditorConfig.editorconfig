@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = Pair_Programming
-build_property.ProjectDir = C:\Users\carlo\source\repos\Pair-Programming\Pair-Programming\
+build_property.ProjectDir = /workspace/Pair-Programming/Pair-Programming/
